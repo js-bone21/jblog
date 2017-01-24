@@ -1,0 +1,18 @@
+---
+layout: post
+title: "This is a Test Post!"
+categories: journal
+tags: [documentation,sample]
+image:
+  feature: mountains.jpg
+  teaser: mountains-teaser.jpg
+  credit: Death to Stock Photo
+  creditlink: ""
+---
+
+This is a test of my first post...let's see if it populates correctly...
+
+
+### Getting Started
+
+[Installation Guide]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): Not exactly sure how these links work...
