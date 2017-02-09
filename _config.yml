@@ -2,7 +2,7 @@
 title:               Josh Soucie
 tagline:             A Not-Yet-World-Renowned Entrepreneur
 description:
-baseurl:            #"/jblog"
+baseurl:            "/jblog"
 url:                #"https://www.joshsoucie.com"
 github:
   url:               "https://js-bone21.github.io/jblog"
