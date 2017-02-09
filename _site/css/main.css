@@ -7,7 +7,11 @@ body {
   font-size: 18px;
   color: #515151;/*#3A3A3A;/*rgba(0,0,0,.8);/*#666;*/
   line-height: 1.75rem;
+<<<<<<< HEAD
   background: green;
+=======
+  background-image: linear-gradient(to bottom right, #336699 30%, #e67300);
+>>>>>>> gh-pages
 }
 
 @media (max-width: 30em) {
@@ -96,12 +100,23 @@ blockquote p {
 */
 
 .container {
-  margin-left: auto;
-  margin-right: auto;
-  width: 615px;
+  z-index: 2;
+    position: relative;
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 5em;
+    margin-bottom: 15em;
+    width: 85%;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 35px grey;
+  background-color: white;
 }
 
-@media (max-width: 1366px) {
+/*@media (max-width: 1366px) {
   .container {
     width: 45vw;
   }
@@ -112,7 +127,7 @@ blockquote p {
   .container {
     width: 75vw;
   }
-}
+}*/
 
 /*
   Masthead
