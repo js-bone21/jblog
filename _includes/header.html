@@ -1,7 +1,17 @@
-<header class="masthead">
-  <h3 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <small class="masthead-subtitle">{{ site.tagline }}</small>
-    {% include menu.html %}
-  </h3>
-</header>
+<!--
+Header includes "profile" pic, name, nav
+-->
+
+<section class="header_box" id="home">
+  <!-- Profile-Type Pic -->
+  <div class="prof_pic">
+    <a href='#'><img id="prof_pic" src='https://lh3.googleusercontent.com/gARJ7zk4WdB1rULoOR4xU9YdX3znr-i1da5-seQe1k3CGZh9xuornFQfxqp9t9LnKqVQck2JGPzKHA6Ou7P-5o3KHGPdbZJqwuJUoDiHP4VQBTZi-cKPtYYIkSGeGL5qDjoNrlo' /></a>
+  </div>
+  <!-- Name Header & Perhaps Later Nav? -->
+  <div class="header_text_box">
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <!-- This may become NAV later -->
+    <h2 class="text-muted">{{ site.tagline }}</h2>
+  </div>
+
+</section>

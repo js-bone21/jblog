@@ -1,6 +1,6 @@
 # Site Settings
-title:               Josh Soucie
-tagline:             A Not-Yet-World-Renowned Entrepreneur
+title:              Josh Soucie
+tagline:            Engineer, Hacker, Entrepreneur, Globetrotter
 description:
 baseurl:            "/jblog"
 url:                #"https://www.joshsoucie.com"
