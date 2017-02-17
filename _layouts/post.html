@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<h1>
+<h3>
   {{ page.title }}
-</h1>
+</h3>
 
 {% if page.image.feature %}
   <img src="{{ site.github.url }}/images/{{ page.image.feature }}">
@@ -12,7 +12,7 @@ layout: default
 
 {{ content }}
 
-<span class="post-date">
+<span class="post-date centered_text">
   Written on
   {% assign d = page.date | date: "%-d"  %}
   {{ page.date | date: "%B" }}
