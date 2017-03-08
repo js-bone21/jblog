@@ -1,5 +1,5 @@
 # Lagrange
 
-A minimalist Jekyll theme for running a personal blog. For everything you would ever need to know, please visit [the demo site](https://lenpaul.github.io/Lagrange/).
+This is my blog site that is based on the [Lagrange theme](https://lenpaul.github.io/Lagrange/). My blog is mostly dedicated to travel although I plkan additional sections dedicated to other topics in the future.
 
-![alt text](https://cloud.githubusercontent.com/assets/8409329/21747617/7ef0e18e-d53a-11e6-8f90-8bb14b62ba20.jpg "Lagrange Demo Image")
+If you want to read about my travels, please visit [my site](https://www.joshsoucie.com/jblog).
