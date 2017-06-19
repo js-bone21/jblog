@@ -2,12 +2,15 @@
 layout: default
 ---
 
+<!-- Need to fix/update html tags...
+    Had changed tags to make the header populate the same between pages as I had written it in CodePen...maybe I should just change the header tags...
+ -->
 <h3>
   {{ page.title }}
 </h3>
 
 {% if page.image.feature %}
-  <img src="{{ page.image.feature }}">
+  <img src="{{ site.baseurl }}/images/{{ page.image.feature }}">
 {% endif %}
 
 {{ content }}

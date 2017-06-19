@@ -3,7 +3,7 @@ title:              Joshua Soucie
 tagline:            Engineer, Hacker, Entrepreneur, Globetrotter
 description:
 baseurl:            "/jblog"
-url:                #"https://www.joshsoucie.com"
+url:                "https://www.joshsoucie.com/jblog"
 github:
   url:               "https://js-bone21.github.io/jblog"
 author:
