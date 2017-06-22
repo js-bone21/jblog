@@ -12,23 +12,19 @@ image:
   creditlink: ""
 ---
 
-<!--
-Need to fix image embed...currently, CTRLQ doesn't support the size that I need for the website (max-width at 512px). May be able to use a workaround with Google Drive (https://confluence.biola.edu/display/itservices/How+to+Embed+Images+from+Google+Drive+in+a+Web+Page)
--->
-
 # First Things First
 
-Hello! And welcome to my blog. The purpose of this blog is primarily to share my free and open thoughts that I have in the course of my travels. Those of you who have followed me before may have read of the things I'd written in my previous blog...so thank you for coming back to my new site! Unforutunately, I backed up my old site incorrectly and I believe I've lost ALL of my posts from that site. I have the hardwritten copies with me, but I had made some changes as I type it up for the web...ugh, I may get around to reposting those at some point.
+Hello! And welcome to my blog. The purpose of this blog is primarily to share my free and open thoughts that I have in the course of my travels. Those of you who have followed me before may have read of the things I'd written in my previous blog...so thank you for coming back to my new site! Unfortunately, I backed up my old site incorrectly and I believe I've lost ALL of my posts from that site. I have the hard-written copies with me, but I had made some changes as I type it up for the web...ugh, I may get around to reposting those at some point.
 
 For those of you who haven't read previously, welcome and thank you!
 
 ### Travel Blog
 
-I haven't been to too many places (yet), but I do have a lot of people ask me for help/pointers/advice/etc if they end up going to places I've already been. There will be travel advice sections primarily based on things I've previously written for people interested in visiting those places. My intent is not to tell you the best parts of all the cities, but perhaps to give some lesser shared advices - currency exchange and what to expect in terms of general prices, some culture tips and do’s/don’ts, explanation of local foods, mayve couchsurfing and hitchhiking culture.
+I haven't been to too many places (yet), but I do have a lot of people ask me for help/pointers/advice/etc if they end up going to places I've already been. There will be travel advice sections primarily based on things I've previously written for people interested in visiting those places. My intent is not to tell you the best parts of all the cities, but perhaps to give some lesser shared advices - currency exchange and what to expect in terms of general prices, some culture tips and do’s/don’ts, explanation of local foods, maybe [CouchSurfing](https://www.couchsurfing.com/) and hitchhiking culture.
 
 I may also include some personal recommendations, but I primarily look for smaller, often sketchier restaurants and places that most people might not feel comfortable visiting. If you want recommendations for such places, I'm happy to share them with you personally.
 
-For nicer restaurants with reviews and whatnot, my advice is to check out any of the various travel blogs/travel recommendation websites (TripAdvisor is ok, WikiTravel can be great, Yelp! also good, NomadicMatt, etc).
+For nicer restaurants with reviews and whatnot, my advice is to check out any of the various travel blogs/travel recommendation websites ([TripAdvisor](https://www.tripadvisor.com/) is ok, [WikiTravel](http://wikitravel.org/en/Main_Page) can be great, [Yelp!](https://www.yelp.com/) also good, [NomadicMatt](https://www.nomadicmatt.com/), etc).
 
 Worst case (and personally, one of my favorite things to do), is to never be afraid to wander around the city in which you find yourself and stop at a restaurant that meets your cleanliness/sketchiness/price requirements.
 
@@ -44,7 +40,7 @@ I also hope to share some profiles about individuals I may meet along the way wh
 
 ### Read Me!
 
-I’m sure that many of my writings will be short - perhaps around 500-1000words; however, I hope that at least a few of my travel recommendations will be long. I am particularly interested in writing for my family and friends, and also for young individuals who might want to or be interested in traveling the way I do and to the places I find intriguing.
+I’m sure that many of my writings will be short - perhaps around 500-1000 words; however, I hope that at least a few of my travel recommendations will be long. I am particularly interested in writing for my family and friends, and also for young individuals who might want to or be interested in traveling the way I do and to the places I find intriguing.
 
 ### Open to Recommendations!
 
