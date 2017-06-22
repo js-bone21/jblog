@@ -17,8 +17,7 @@ body {
 }
 
 h1 {
-  font-size: 8vw;
-  text-align: center;
+  font-size: 3rem;
 }
 
 h1 a {
@@ -26,7 +25,7 @@ h1 a {
 }
 
 h2 {
-  font-size: 1.75vw;
+  font-size: 1.5vw;
   margin-top: -1.25em;
   text-align: center;
 }
@@ -155,6 +154,10 @@ blockquote p {
   Masthead
 */
 
+#masttitle {
+  text-align: center;
+}
+
 .masthead {
 
 }
@@ -166,10 +169,9 @@ blockquote p {
 .masthead-title a {
   display: inline-flex;
   align-items: center;
-  font-size: 8vw;/*25px;*/
+  font-size: 6.5vw;/*25px;*/
   text-align: center;
   text-decoration: none;
-  color: #505050;
 }
 
 .masthead-subtitle {
@@ -181,18 +183,18 @@ blockquote p {
 }
 
 .header_text_box {
-  flex: 2 0 80%;
+  flex: 2 0 75%;
 }
 
 @media (max-width: 480px) {
   .header_text_box {
-    flex: 2 1 80%;
+    flex: 2 1 75%;
   }
 }
 
 .prof_pic {
   display: flex;
-  flex: 1 1 20%;
+  flex: 1 1 25%;
   justify-content: center;
   align-items: center;
 }

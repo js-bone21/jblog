@@ -5,16 +5,16 @@ layout: default
 <!-- Need to fix/update html tags...
     Had changed tags to make the header populate the same between pages as I had written it in CodePen...maybe I should just change the header tags...
  -->
-<h3>
+<h1>
   {{ page.title }}
-</h3>
+</h1>
 
 {% if page.image.feature %}
   <img src="{{ site.baseurl }}/images/{{ page.image.feature }}">
 {% endif %}
-
+<div style="margin: 0 50 0 50">
 {{ content }}
-
+</div>
 <span class="post-date centered_text">
   Written on
   {% assign d = page.date | date: "%-d"  %}
