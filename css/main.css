@@ -4,7 +4,7 @@
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif, "Open Sans", sans-serif;
-  font-size: 18px;
+  font-size: 14px;
   color: #515151;/*#3A3A3A;/*rgba(0,0,0,.8);/*#666;*/
   line-height: 1.75rem;
   background-image: linear-gradient(to bottom right, #336699 30%, #e67300);
@@ -17,16 +17,15 @@ body {
 }
 
 h1 {
-  font-size: 8vw;
-  text-align: center;
+  font-size: 3rem;
 }
 
 h1 a {
-  text-decoration: none;
+
 }
 
 h2 {
-  font-size: 1.75vw;
+  font-size: 1.5vw;
   margin-top: -1.25em;
   text-align: center;
 }
@@ -121,10 +120,10 @@ blockquote p {
   Site container
 */
 
-.container {
+.flex-container {
   z-index: 2;
   width: 85%;
-  max-width: 1024px;
+  max-width: 900px;
   background-color: white;
   position: relative;
   display: flex;
@@ -155,11 +154,12 @@ blockquote p {
   Masthead
 */
 
+#masttitle {
+  text-align: center;
+}
+
 .masthead {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+
 }
 
 .masthead a:hover {
@@ -167,9 +167,12 @@ blockquote p {
 }
 
 .masthead-title a {
-  font-size: 2rem;/*25px;*/
+  display: inline-flex;
+  align-items: center;
+  font-size: 6.5vw;/*25px;*/
+  text-align: center;
   text-decoration: none;
-  color: #505050;
+  color: black;
 }
 
 .masthead-subtitle {
@@ -181,24 +184,25 @@ blockquote p {
 }
 
 .header_text_box {
-  flex: 2 0 80%;
+  flex: 2 0 75%;
 }
 
 @media (max-width: 480px) {
   .header_text_box {
-    flex: 2 1 80%;
+    flex: 2 1 75%;
   }
 }
 
 .prof_pic {
   display: flex;
-  flex: 1 1 20%;
+  flex: 1 1 25%;
   justify-content: center;
   align-items: center;
 }
 
 #prof_pic {
   border-radius: 50%;
+  margin: 10px;
   width: 20vw;
   height: 20vw;
   max-width: 160px;
@@ -217,6 +221,10 @@ blockquote p {
 /*
   Post
 */
+
+.post-content {
+  margin: 0 50 0 50;
+}
 
 .post-container {
   margin-bottom: 4rem;
@@ -286,19 +294,26 @@ blockquote p {
 */
 
 .footer {
-  color: #999;
+  z-index: 1;
+  width: 100%;
+  color: white;
   text-align: center;
-  margin: 2rem;
+  position: fixed;
+  bottom: 2.75em;
 }
 
 .footer a {
-  color: #999;
+  color: inherit;;
   padding: 10px;
   text-decoration: none;
 }
 
 .footer a:hover {
   color: #333;
+}
+
+.footer div {
+  color:inherit;
 }
 
 /*
