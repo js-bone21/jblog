@@ -123,7 +123,7 @@ blockquote p {
 .flex-container {
   z-index: 2;
   width: 85%;
-  max-width: 1024px;
+  max-width: 900px;
   background-color: white;
   position: relative;
   display: flex;
@@ -172,6 +172,7 @@ blockquote p {
   font-size: 6.5vw;/*25px;*/
   text-align: center;
   text-decoration: none;
+  color: black;
 }
 
 .masthead-subtitle {
@@ -220,6 +221,10 @@ blockquote p {
 /*
   Post
 */
+
+.post-content {
+  margin: 0 50 0 50;
+}
 
 .post-container {
   margin-bottom: 4rem;
